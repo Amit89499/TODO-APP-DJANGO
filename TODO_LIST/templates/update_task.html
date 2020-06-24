@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>task</title>
+
+</head>
+<body>
+     <h3>Update tasks</h3>
+      <form method="POST" ACTION="">
+          {% csrf_token %}
+          {{form}}
+          <input type="submit" name="Update Task">
+      </form>
+</body>
+</html>
