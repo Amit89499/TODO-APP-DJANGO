@@ -1,6 +1,7 @@
 # TODO-APP-DJANGO
 
-This is a **TODO LIST** app where user can add it's daily tasks
+This is a **TODO LIST** app where user can add it's daily tasks.
+
 **Functionality**: 
 - A user can update the tasks
 - A user can delete the tasks
